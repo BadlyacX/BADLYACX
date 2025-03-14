@@ -1,7 +1,5 @@
-## Hi there 👋
-# BADlyAC
-youtube: https://www.youtube.com/@BADlyAC
 
+# BADlyAC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadlyacX&layout=compact&theme=dark)
 <!--
