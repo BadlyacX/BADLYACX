@@ -1,0 +1,15 @@
+package Practice.Lambda;
+
+public class LambdaPractice {
+    LambdaPractice lambdaPractice = new LambdaPractice();
+
+    interface MathOperation {
+        int operation(int a, int b);
+    }
+
+    MathOperation add = Integer::sum;
+
+    public static void main(String[] args) {
+
+    }
+}
