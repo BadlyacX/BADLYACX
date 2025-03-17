@@ -7,7 +7,7 @@ public class a005 {
         Scanner sc = new Scanner(System.in);
 
         int t = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine(); // fuck off \n !!
         int a = 0;
     while (sc.hasNext()) {
         if (a == t) {
