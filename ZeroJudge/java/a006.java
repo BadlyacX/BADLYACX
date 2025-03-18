@@ -1,32 +1,32 @@
 package ZeroJudge;
 
 import java.util.Scanner;
-import java.util.ArrayList;
 
 public class a006 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        ArrayList<Integer> factors = new ArrayList<>();
         String input = sc.nextLine();
         String[] strings = input.split("\\s+");
         int a = Integer.parseInt(strings[0]);
         int b = Integer.parseInt(strings[1]);
         int c = Integer.parseInt(strings[2]);
+        double r = (b * b) - (4 * a * c);
+        int x, x1, x2;
 
-        for (int i = 1; i <= c; i++) {
-            if (c % i == 0) {
-                factors.add(i);
-                System.out.println(i);
+        if (a != 0) {
+            x1 = (int) (-b + Math.sqrt(r)) / (a * 2);
+            x2 = (int) (-b - Math.sqrt(r)) / (a * 2);
+
+            if (x1 > x2) {
+                System.out.println("Two different roots " + "x1=" + x1 + " , x2=" + x2);
+            } else if (x1 < x2) {
+                System.out.println("Two different roots " + "x1=" + x2 + " , x2=" + x1);
+            } else if (r == 0) {
+                System.out.println("Two same roots x=" + x1);
+            } else {
+                System.out.println("No real root");
             }
         }
-
-        
-        
-// 1 2 5 10
-        // ax^2 + bx + c = 0
-        // sample input 1 3 -10
-        // x^2 + 3x - 10 = 0
-        // (x + 5) (x -2) = 10
         sc.close();
     }
 }
