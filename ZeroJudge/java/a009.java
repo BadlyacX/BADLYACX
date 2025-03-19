@@ -13,7 +13,7 @@ public class a009 {
         for (int i = 0; i < input.length(); i++) {
             char c = input.charAt(i);
             int n = (int) c;
-            char o = (char)(n - 7);
+            char o = (char)(n - k);
             System.out.print(o);
         }
         sc.close();
