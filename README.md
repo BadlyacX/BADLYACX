@@ -15,8 +15,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=badlyacx&show_icons=true&theme=tokyonight&hide_border=true&card_width=440" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badlyacx&layout=compact&theme=tokyonight&hide_border=true&card_width=440" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=badlyacx&show_icons=true&theme=tokyonight&hide_border=true&card_width=440" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badlyacx&layout=compact&theme=tokyonight&hide_border=true&card_width=440" width="80%" />
 </p>
 
 <p align="center">
