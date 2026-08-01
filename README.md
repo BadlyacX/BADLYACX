@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BADlyAC</h1>
-<h3 align="center">Minecraft Forge/NeoForge Modder & Tool Developer</h3>
+<h3 align="center">Minecraft Forge/NeoForge Modder & Spigot Plugin Developer & Tool Developer</h3>
 
 <p align="center">
   Focused on immersive dimension design and Discord automation tools
