@@ -1,16 +1,24 @@
+<h1 align="center">Hi 👋, I'm BADlyAC</h1>
+<h3 align="center">Minecraft Forge/NeoForge Modder & Tool Developer</h3>
 
-# BADlyAC
+<p align="center">
+  Focused on immersive dimension design and Discord automation tools
+</p>
 
-### 👋 About Me
-Minecraft Forge / NeoForge modder & 工具開發者,專注於沉浸式維度設計與 Discord 自動化工具
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=badlyacx&layout=compact&theme=tokyonight)
-![Stats](https://github-stats-extended.vercel.app/api?username=badlyacx&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=badlyacx&theme=tokyonight)
+<br>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=badlyacx&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badlyacx&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=badlyacx&theme=tokyonight&hide_border=true" width="70%" />
+</p>
