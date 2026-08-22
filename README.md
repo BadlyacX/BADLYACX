@@ -22,6 +22,4 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badlyacx&layout=compact&theme=tokyonight&hide_border=true&card_width=440" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=badlyacx&theme=tokyonight&hide_border=true" width="80%" />
-</p>
+
