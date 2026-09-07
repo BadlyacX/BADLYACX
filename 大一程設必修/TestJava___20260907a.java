@@ -1,5 +1,3 @@
-package com.mcu.gary;
-
 public class TestJava___20260907a {
 	
 	private static final String name = "Gary";
