@@ -1,3 +1,5 @@
+/* 這我純亂寫的 */
+
 public class TestJava___20260907a {
 	
 	private static final String name = "Gary";
