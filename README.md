@@ -22,7 +22,7 @@
 - 🎮 Building **Afterimage** — a psychological horror-themed Minecraft dimension mod featuring a fractured multiverse (Backworld, Pale Mimic World, Memory Error World, etc) with contamination mechanics that bleed between dimensions
 - 🛡️ Maintaining **BookkeepingHelper** — a personal finance tracking Progressive Web App (PWA)
 - ⚙️ Reverse-engineering a JNI inject client for Minecraft 1.8.9, using an AI agent to map obfuscated ↔ deobfuscated methods (MCP mappings)
-- 🌱 Currently exploring low-level rendering (`BlockEntityRenderer`, custom `RenderType`) and AI-agent-assisted tooling
+- 🌱 Currently exploring SQL database and AI-agent-assisted tooling
 
 <br>
 
