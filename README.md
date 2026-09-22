@@ -32,7 +32,7 @@
 |---------------------------|-------------------------------------------|
 | 🕯️ [Afterimage](#)       | Horror-themed dimension mod for Forge     |
 | 🛡️ [AntiRaid](#)         | Discord anti-raid bot for personal server |
-| 💉 [BookkeepingHelper](#) | a simple tool for managing money          |
+| 💵 [BookkeepingHelper](#) | a simple tool for managing money          |
 
 <br>
 
