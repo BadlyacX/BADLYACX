@@ -1,0 +1,25 @@
+public class TestJava_20260918a {
+	
+	public static void main(String[] args) {
+	
+	byte b = 2;
+	
+	char c = 'c';
+	int c1 = (int) c;
+	
+	int x = 6;
+	char ch = (char) x;
+	
+	short s = 25565;
+	int i = (int) 6.9;
+	
+	float f1 = 1.5f;
+	double d = f1;
+	double d2 = 6.4d;
+	
+	boolean  bool = true;
+	
+	System.out.println(ch);
+	
+	}
+}
