@@ -1,4 +1,4 @@
-package com.mcu.javaProj__20261001.大一程設.期中考;
+package com.badlyac.schoolproject;
 
 import java.util.Scanner;
 
